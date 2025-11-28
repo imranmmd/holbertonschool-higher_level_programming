@@ -2,4 +2,4 @@
 s = ''
 for i in range(97, 97+26):
     s = s + chr(i)
-print('{}'.format(s))
+print('{}'.format(s), end="")
