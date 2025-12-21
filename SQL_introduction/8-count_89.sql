@@ -1,0 +1,3 @@
+-- abi salam
+SELECT COUNT(*) FROM hbtn_0c_0
+WHERE id = 89;
